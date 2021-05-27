@@ -17,3 +17,9 @@ Return
 +esc::exitapp
 f11::listvars
 f12::reload
+
+
+;===========================================================================================
+
+; Copyright © 2021 by www.stewart-peter.com
+; Developed by Peter Stewart for Commercial and Non-Commercial Use
